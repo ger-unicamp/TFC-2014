@@ -1,0 +1,116 @@
+<CodeGenerationInfo>
+  <ToolchainSettings>
+    <option>
+      <name>PE_G_4PEx_ToolChain_Compiler_SearchUserPaths</name>
+      <values lines_count="4">
+        <Line>"${ProcessorExpertPath}/lib/Kinetis/pdd/inc"</Line>
+        <Line>"${ProcessorExpertPath}/lib/Kinetis/iofiles"</Line>
+        <Line>"${ProjDirPath}/Sources"</Line>
+        <Line>"${ProjDirPath}/Generated_Code"</Line>
+      </values>
+    </option>
+  </ToolchainSettings>
+  <GeneratedFilesList>
+    <GeneratedByPE>
+      <File Name="Static_Code/PDD/UART_PDD.h" FileDate="2014-02-20, 13:18:46" FileAge="1392913126000" FileType="262144" />
+      <File Name="Documentation/doxygen/motor1IN2PWM.txt" FileDate="2014-09-18, 13:44:39" FileAge="1411058679633" FileType="45637" CompNumb="17" />
+      <File Name="Generated_Code/PE_LDD.h" FileDate="2014-10-07, 12:10:59" FileAge="1412694659533" FileType="45637" CompNumb="2" />
+      <File Name="Generated_Code/BitIoLdd2.h" FileDate="2014-10-07, 11:10:16" FileAge="1412691016700" FileType="45637" CompNumb="38" />
+      <File Name="Documentation/doxygen/BitIoLdd2.txt" FileDate="2014-08-22, 17:43:10" FileAge="1408740190267" FileType="45637" CompNumb="38" />
+      <File Name="Static_Code/PDD/CMP_PDD.h" FileDate="2014-02-20, 13:18:46" FileAge="1392913126000" FileType="262144" />
+      <File Name="Generated_Code/PE_LDD.c" FileDate="2014-10-07, 12:10:59" FileAge="1412694659507" FileType="45637" CompNumb="2" />
+      <File Name="Documentation/doxygen/enableMotorBit.txt" FileDate="2014-08-19, 16:58:55" FileAge="1408478335115" FileType="45637" CompNumb="15" />
+      <File Name="Generated_Code/BitIoLdd2.c" FileDate="2014-10-07, 11:10:16" FileAge="1412691016686" FileType="45637" CompNumb="38" />
+      <File Name="Generated_Code/BitIoLdd1.h" FileDate="2014-10-07, 11:10:16" FileAge="1412691016750" FileType="45637" CompNumb="36" />
+      <File Name="Generated_Code/PE_Error.h" FileDate="2014-10-07, 11:10:16" FileAge="1412691016506" FileType="45637" />
+      <File Name="Generated_Code/BitIoLdd1.c" FileDate="2014-10-07, 11:10:16" FileAge="1412691016737" FileType="45637" CompNumb="36" />
+      <File Name="Generated_Code/TimerIntLdd1.h" FileDate="2014-10-07, 18:50:16" FileAge="1412718616158" FileType="45637" CompNumb="34" />
+      <File Name="Documentation/doxygen/pex.doxyfile" FileDate="2014-10-07, 11:10:16" FileAge="1412691016435" FileType="45637" CompNumb="2" />
+      <File Name="Generated_Code/Vectors.c" FileDate="2014-10-07, 18:50:16" FileAge="1412718616446" FileType="45637" CompNumb="2" />
+      <File Name="Static_Code/PDD/SysTick_PDD.h" FileDate="2014-02-20, 13:18:46" FileAge="1392913126000" FileType="262144" />
+      <File Name="Static_Code/PDD/DMA_PDD.h" FileDate="2014-02-20, 13:18:46" FileAge="1392913126000" FileType="262144" />
+      <File Name="Static_Code/PDD/SPI_PDD.h" FileDate="2014-02-20, 13:18:46" FileAge="1392913126000" FileType="262144" />
+      <File Name="Static_Code/PDD/LPTMR_PDD.h" FileDate="2014-02-20, 13:18:46" FileAge="1392913126000" FileType="262144" />
+      <File Name="Documentation/doxygen/TU3.txt" FileDate="2014-10-07, 18:50:16" FileAge="1412718616364" FileType="45637" CompNumb="41" />
+      <File Name="Generated_Code/TimerIntLdd1.c" FileDate="2014-10-07, 18:50:16" FileAge="1412718616123" FileType="45637" CompNumb="34" />
+      <File Name="Static_Code/PDD/SIM_PDD.h" FileDate="2014-02-20, 13:18:46" FileAge="1392913126000" FileType="262144" />
+      <File Name="Documentation/doxygen/BitIoLdd1.txt" FileDate="2014-08-22, 17:43:10" FileAge="1408740190329" FileType="45637" CompNumb="36" />
+      <File Name="Static_Code/PDD/ADC_PDD.h" FileDate="2014-02-20, 13:18:46" FileAge="1392913126000" FileType="262144" />
+      <File Name="Documentation/doxygen/RoutingReport.txt" FileDate="2014-08-19, 15:12:26" FileAge="1408471946456" FileType="45637" CompNumb="2" />
+      <File Name="Static_Code/PDD/DAC_PDD.h" FileDate="2014-02-20, 13:18:46" FileAge="1392913126000" FileType="262144" />
+      <File Name="Generated_Code/IO_Map.h" FileDate="2014-10-07, 11:10:16" FileAge="1412691016486" FileType="45637" />
+      <File Name="Generated_Code/motor1IN1PWM.h" FileDate="2014-10-07, 11:10:17" FileAge="1412691017092" FileType="45637" CompNumb="16" />
+      <File Name="Generated_Code/motor1IN1PWM.c" FileDate="2014-10-07, 11:10:17" FileAge="1412691017079" FileType="45637" CompNumb="16" />
+      <File Name="Generated_Code/AS1.h" FileDate="2014-10-07, 12:10:59" FileAge="1412694659016" FileType="45637" CompNumb="71" />
+      <File Name="Generated_Code/AS1.c" FileDate="2014-10-07, 12:10:58" FileAge="1412694658993" FileType="45637" CompNumb="71" />
+      <File Name="Static_Code/PDD/GPIO_PDD.h" FileDate="2014-02-20, 13:18:46" FileAge="1392913126000" FileType="262144" />
+      <File Name="Generated_Code/AdcLdd1.h" FileDate="2014-10-08, 00:09:39" FileAge="1412737779113" FileType="45637" CompNumb="50" />
+      <File Name="Generated_Code/cameraCLK.h" FileDate="2014-10-07, 11:10:16" FileAge="1412691016779" FileType="45637" CompNumb="33" />
+      <File Name="Generated_Code/AdcLdd1.c" FileDate="2014-10-08, 00:09:39" FileAge="1412737779165" FileType="45637" CompNumb="50" />
+      <File Name="Documentation/doxygen/TU2.txt" FileDate="2014-09-18, 13:44:39" FileAge="1411058679478" FileType="45637" CompNumb="21" />
+      <File Name="Generated_Code/cameraCLK.c" FileDate="2014-10-07, 11:10:16" FileAge="1412691016764" FileType="45637" CompNumb="33" />
+      <File Name="Documentation/doxygen/motor2IN2PWM.txt" FileDate="2014-09-18, 13:44:39" FileAge="1411058679716" FileType="45637" CompNumb="19" />
+      <File Name="Generated_Code/motor1IN2PWM.h" FileDate="2014-10-07, 11:10:17" FileAge="1412691017062" FileType="45637" CompNumb="17" />
+      <File Name="Generated_Code/motor1IN2PWM.c" FileDate="2014-10-07, 11:10:17" FileAge="1412691017049" FileType="45637" CompNumb="17" />
+      <File Name="Generated_Code/WAIT1.h" FileDate="2014-10-07, 11:10:16" FileAge="1412691016900" FileType="45637" CompNumb="29" />
+      <File Name="Generated_Code/WAIT1.c" FileDate="2014-10-07, 11:10:16" FileAge="1412691016892" FileType="45637" CompNumb="29" />
+      <File Name="Project_Settings/Linker_Files/ProcessorExpert.ld" FileDate="2014-10-07, 11:10:16" FileAge="1412691016396" FileType="8" CompNumb="2" />
+      <File Name="Static_Code/PDD/PIT_PDD.h" FileDate="2014-02-20, 13:18:46" FileAge="1392913126000" FileType="262144" />
+      <File Name="Static_Code/PDD/DMAMUX_PDD.h" FileDate="2014-02-20, 13:18:46" FileAge="1392913126000" FileType="262144" />
+      <File Name="Generated_Code/cameraSIBit.h" FileDate="2014-10-07, 11:10:16" FileAge="1412691016670" FileType="45637" CompNumb="37" />
+      <File Name="Documentation/doxygen/motor1IN1PWM.txt" FileDate="2014-09-18, 13:44:39" FileAge="1411058679586" FileType="45637" CompNumb="16" />
+      <File Name="Documentation/doxygen/TU1.txt" FileDate="2014-08-22, 15:23:15" FileAge="1408731795304" FileType="45637" CompNumb="22" />
+      <File Name="Generated_Code/cameraSIBit.c" FileDate="2014-10-07, 11:10:16" FileAge="1412691016662" FileType="45637" CompNumb="37" />
+      <File Name="Static_Code/PDD/I2C_PDD.h" FileDate="2014-02-20, 13:18:46" FileAge="1392913126000" FileType="262144" />
+      <File Name="Generated_Code/PE_Types.h" FileDate="2014-10-07, 12:10:59" FileAge="1412694659296" FileType="45637" />
+      <File Name="Static_Code/PDD/RTC_PDD.h" FileDate="2014-02-20, 13:18:46" FileAge="1392913126000" FileType="262144" />
+      <File Name="Static_Code/PDD/MCM_PDD.h" FileDate="2014-02-20, 13:18:46" FileAge="1392913126000" FileType="262144" />
+      <File Name="Documentation/doxygen/servoPWM.txt" FileDate="2014-08-22, 15:23:15" FileAge="1408731795249" FileType="45637" CompNumb="18" />
+      <File Name="Generated_Code/RxBuf.h" FileDate="2014-10-07, 12:10:58" FileAge="1412694658950" FileType="45637" CompNumb="72" />
+      <File Name="Generated_Code/motor2IN1PWM.h" FileDate="2014-10-07, 11:10:16" FileAge="1412691016933" FileType="45637" CompNumb="28" />
+      <File Name="Documentation/doxygen/AdcLdd1.txt" FileDate="2014-10-08, 00:09:39" FileAge="1412737779177" FileType="45637" CompNumb="50" />
+      <File Name="Sources/main.c" FileDate="2014-10-08, 01:55:43" FileAge="1412744143330" FileType="128" />
+      <File Name="Static_Code/PDD/PDD_Types.h" FileDate="2013-04-18, 00:55:42" FileAge="1366257342000" FileType="262144" />
+      <File Name="Documentation/TFC2014-2.txt" FileDate="2014-10-07, 18:44:54" FileAge="1412718294687" FileType="3072" />
+      <File Name="Generated_Code/RxBuf.c" FileDate="2014-10-07, 12:10:58" FileAge="1412694658938" FileType="45637" CompNumb="72" />
+      <File Name="Generated_Code/motor2IN1PWM.c" FileDate="2014-10-07, 11:10:16" FileAge="1412691016918" FileType="45637" CompNumb="28" />
+      <File Name="Documentation/doxygen/AS1.txt" FileDate="2014-10-07, 12:10:58" FileAge="1412694658972" FileType="45637" CompNumb="71" />
+      <File Name="Sources/Events.h" FileDate="2014-10-07, 12:10:59" FileAge="1412694659678" FileType="131328" />
+      <File Name="Project_Settings/Debugger/MKL25Z128.mem" FileDate="2014-08-19, 15:12:26" FileAge="1408471946389" FileType="45637" CompNumb="2" />
+      <File Name="Sources/Events.c" FileDate="2014-10-08, 01:55:53" FileAge="1412744153286" FileType="131328" />
+      <File Name="Generated_Code/TU3.h" FileDate="2014-10-07, 18:50:16" FileAge="1412718616194" FileType="45637" CompNumb="41" />
+      <File Name="Generated_Code/Cpu.h" FileDate="2014-10-07, 12:10:59" FileAge="1412694659412" FileType="45637" CompNumb="2" />
+      <File Name="Static_Code/PDD/FTFA_PDD.h" FileDate="2014-02-20, 13:18:46" FileAge="1392913126000" FileType="262144" />
+      <File Name="Generated_Code/cameraCLKBit.h" FileDate="2014-10-07, 11:10:16" FileAge="1412691016717" FileType="45637" CompNumb="35" />
+      <File Name="Generated_Code/TU3.c" FileDate="2014-10-07, 18:50:16" FileAge="1412718616332" FileType="45637" CompNumb="41" />
+      <File Name="Generated_Code/Cpu.c" FileDate="2014-10-07, 12:10:59" FileAge="1412694659444" FileType="45637" CompNumb="2" />
+      <File Name="Generated_Code/TU2.h" FileDate="2014-10-07, 11:10:17" FileAge="1412691017131" FileType="45637" CompNumb="21" />
+      <File Name="Generated_Code/enableMotorBit.h" FileDate="2014-10-07, 11:10:17" FileAge="1412691017163" FileType="45637" CompNumb="15" />
+      <File Name="Generated_Code/cameraCLKBit.c" FileDate="2014-10-07, 11:10:16" FileAge="1412691016708" FileType="45637" CompNumb="35" />
+      <File Name="Static_Code/PDD/USB_PDD.h" FileDate="2014-02-20, 13:18:46" FileAge="1392913126000" FileType="262144" />
+      <File Name="Generated_Code/TU2.c" FileDate="2014-10-07, 11:10:17" FileAge="1412691017117" FileType="45637" CompNumb="21" />
+      <File Name="Generated_Code/enableMotorBit.c" FileDate="2014-10-07, 11:10:17" FileAge="1412691017147" FileType="45637" CompNumb="15" />
+      <File Name="Generated_Code/TU1.h" FileDate="2014-10-07, 11:10:17" FileAge="1412691017031" FileType="45637" CompNumb="22" />
+      <File Name="Static_Code/IO_Map/MKL25Z4.h" FileDate="2013-04-18, 00:55:42" FileAge="1366257342000" FileType="262144" />
+      <File Name="Documentation/doxygen/pex.css" FileDate="2014-08-19, 15:12:26" FileAge="1408471946209" FileType="16384" CompNumb="2" />
+      <File Name="Generated_Code/PE_Const.h" FileDate="2014-10-07, 11:10:16" FileAge="1412691016496" FileType="45637" />
+      <File Name="Generated_Code/motor2IN2PWM.h" FileDate="2014-10-07, 11:10:16" FileAge="1412691016969" FileType="45637" CompNumb="19" />
+      <File Name="Generated_Code/servoPWM.h" FileDate="2014-10-07, 11:10:17" FileAge="1412691017000" FileType="45637" CompNumb="18" />
+      <File Name="Generated_Code/TU1.c" FileDate="2014-10-07, 11:10:17" FileAge="1412691017017" FileType="45637" CompNumb="22" />
+      <File Name="Generated_Code/motor2IN2PWM.c" FileDate="2014-10-07, 11:10:16" FileAge="1412691016954" FileType="45637" CompNumb="19" />
+      <File Name="Generated_Code/servoPWM.c" FileDate="2014-10-07, 11:10:16" FileAge="1412691016986" FileType="45637" CompNumb="18" />
+      <File Name="Generated_Code/AD1.h" FileDate="2014-10-08, 02:00:08" FileAge="1412744408379" FileType="45637" CompNumb="49" />
+      <File Name="Static_Code/PDD/UART0_PDD.h" FileDate="2014-02-20, 13:18:46" FileAge="1392913126000" FileType="262144" />
+      <File Name="Documentation/doxygen/TFC2014-2.txt" FileDate="2014-10-07, 12:10:59" FileAge="1412694659475" FileType="45637" CompNumb="2" />
+      <File Name="Static_Code/PDD/TPM_PDD.h" FileDate="2014-02-20, 13:18:46" FileAge="1392913126000" FileType="262144" />
+      <File Name="Static_Code/PDD/COP_PDD.h" FileDate="2014-02-20, 13:18:46" FileAge="1392913126000" FileType="262144" />
+      <File Name="Generated_Code/AD1.c" FileDate="2014-10-08, 02:00:09" FileAge="1412744409001" FileType="45637" CompNumb="49" />
+      <File Name="Documentation/TFC2014-2_SIGNALS.txt" FileDate="2014-10-08, 02:00:09" FileAge="1412744409594" FileType="3072" />
+      <File Name="Documentation/TFC2014-2_Settings.xml" FileDate="2014-10-08, 02:00:09" FileAge="1412744409687" FileType="3072" />
+      <File Name="Documentation/doxygen/TimerIntLdd1.txt" FileDate="2014-10-07, 18:50:16" FileAge="1412718616403" FileType="45637" CompNumb="34" />
+      <File Name="Documentation/doxygen/motor2IN1PWM.txt" FileDate="2014-09-18, 13:44:39" FileAge="1411058679770" FileType="45637" CompNumb="28" />
+      <File Name="Static_Code/PDD/PORT_PDD.h" FileDate="2014-02-20, 13:18:46" FileAge="1392913126000" FileType="262144" />
+    </GeneratedByPE>
+  </GeneratedFilesList>
+  <CodeGenReference>24</CodeGenReference>
+</CodeGenerationInfo>
